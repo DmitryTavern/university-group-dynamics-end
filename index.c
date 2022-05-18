@@ -18,7 +18,7 @@ int main()
 
   int ten_del_2 = 10 / 2;
 
-  printf("10/2=%d", ten_del_2);
+  printf("[branch2]10/2=%d\n", ten_del_2);
 
   int one_plus_ten_minus_two = 1 + 10 - 2;
 
