@@ -10,7 +10,7 @@ int main()
 
   int two_minus_one = 2 - 1;
 
-  printf("2-1=%d", two_minus_one);
+  printf("[branch2]2-1=%d\n", two_minus_one);
 
   int ten_x_4 = 10 * 4;
 
