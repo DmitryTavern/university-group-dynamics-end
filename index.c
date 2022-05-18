@@ -23,4 +23,6 @@ int main()
   int one_plus_ten_minus_two = 1 + 10 - 2;
 
   printf("1+10-2=%d", one_plus_ten_minus_two);
+
+  printf("Hello world\n");
 }
