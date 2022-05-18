@@ -15,4 +15,8 @@ int main()
   int ten_x_4 = 10 * 4;
 
   printf("10*4=%d", ten_x_4);
+
+  int ten_del_2 = 10 / 2;
+
+  printf("10/2=%d", ten_del_2);
 }
