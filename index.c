@@ -6,7 +6,7 @@ int main()
 
   int one_plus_two = 1 + 2;
 
-  printf("1+2=%d", one_plus_two);
+  printf("[code]1+2=%d\n", one_plus_two);
 
   int two_minus_one = 2 - 1;
 
